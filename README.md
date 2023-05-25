@@ -14,5 +14,5 @@ To control the player, use WASD keys to move left, right, forward, and backward.
 Levels
 Each level has more game objects, different enemies, and pickups are placed in different locations.
 
-Link to WebGL Game:
-Link to your Unity Project:
+Link to WebGL Game: https://play.unity.com/mg/other/mca2-jessica-luo
+Link to Unity Project: https://drive.google.com/file/d/1gLcTS0F2ZVcxs0-HCEbbwPkCzu8LTcI-/view?usp=sharing
